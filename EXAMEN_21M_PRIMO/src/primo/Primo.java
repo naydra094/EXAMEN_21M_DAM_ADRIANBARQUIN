@@ -14,5 +14,9 @@ public class Primo {
 		else {
 			System.out.println(num+" no es par");
 		}
+		System.out.println("El número no es primo");
+		System.out.println("Los divisores del número son: ");
+		System.out.println("Ejemplo: El 4 no es primo");
+		System.out.println("Los divisores del 4 son: 1,2, y 4");
 	}
 }
